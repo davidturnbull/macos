@@ -1,1 +1,1 @@
-# macos
+# macOS Setup Script
